@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5df98962-4f50-47a2-a020-ee6a0e5d2807</webElementGuid>
+      <webElementGuid>276d4abd-f973-41e5-98e6-b1fecad3a416</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>56d59a56-54fc-44cd-8136-4f9c8fde9aaf</webElementGuid>
+      <webElementGuid>11bc276f-1f4f-4e33-878f-7c72b8e833a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text </value>
-      <webElementGuid>98d93750-51db-4e14-bdd4-5ac534ad1082</webElementGuid>
+      <webElementGuid>8906bf16-f9cd-459a-a607-4549764a6b13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>billing_address_1</value>
-      <webElementGuid>1068430e-afdc-4ec8-874a-885ae4702517</webElementGuid>
+      <webElementGuid>d5032d42-3308-4301-9c33-cd76eaf41954</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>billing_address_1</value>
-      <webElementGuid>f2450edf-a59e-479a-b7e6-b3de11d4c2a5</webElementGuid>
+      <webElementGuid>6f41732d-7c2c-4d84-bcbc-c2d95f28195a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Street address</value>
-      <webElementGuid>06c4e94a-ef50-45be-b5fc-8a118c1072d9</webElementGuid>
+      <webElementGuid>f26f5004-c86f-46a3-9214-aefdf490dc4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>address-line1</value>
-      <webElementGuid>dc835d99-6d58-4af5-a97b-9d0616b87f04</webElementGuid>
+      <webElementGuid>7e04b9b6-06ba-4313-ab3e-2951c493d42b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billing_address_1&quot;)</value>
-      <webElementGuid>fe6eddcf-61a1-4715-ae32-b4dfe59b4bc2</webElementGuid>
+      <webElementGuid>14746289-b3f4-4a95-9a9f-ef86ee92a7f1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='billing_address_1']</value>
-      <webElementGuid>34c94f62-e6d1-40ab-a07d-8f4645efc9f4</webElementGuid>
+      <webElementGuid>e5fb9d2b-495d-4ac2-a8ee-a179866a0018</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p[@id='billing_address_1_field']/input</value>
-      <webElementGuid>e7dd0e51-7fdf-414c-9191-65da39f4b74d</webElementGuid>
+      <webElementGuid>559f0c54-b35d-4d8b-bfcf-8c26c6c77a6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[7]/input</value>
-      <webElementGuid>81f7e0c4-cd54-440a-a7b8-cb1d42478d3a</webElementGuid>
+      <webElementGuid>9f010fe7-ba44-401a-8560-337799e4a3eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'billing_address_1' and @id = 'billing_address_1' and @placeholder = 'Street address']</value>
-      <webElementGuid>95fee52b-3e2b-4843-aee1-e2ff79fe4641</webElementGuid>
+      <webElementGuid>478361f5-266d-4637-b237-c307b96cc8c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

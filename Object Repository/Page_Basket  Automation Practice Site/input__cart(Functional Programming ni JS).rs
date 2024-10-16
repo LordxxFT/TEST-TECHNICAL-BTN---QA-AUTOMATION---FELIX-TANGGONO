@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__cart149e9677a5989fd342ae44213df68868qty</name>
+   <name>input__cart(Functional Programming ni JS)</name>
    <tag></tag>
-   <elementGuidId>4b000bf4-5037-4f62-9c2a-ca651233dad4</elementGuidId>
+   <elementGuidId>2266dcf8-170c-48d3-a941-9c6b59615c5d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>04d8068c-37aa-4e4c-96fd-1c3bdee5091b</webElementGuid>
+      <webElementGuid>dfad9ced-8dad-4b30-a4a4-8bc862644c6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>49f0bd13-e0ca-4f36-af9c-a18dd0a417bd</webElementGuid>
+      <webElementGuid>ee55ff4a-a666-4cd9-9e6c-ca646d27b4a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>step</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>8882f6ea-3140-4021-9907-c673feb1cef4</webElementGuid>
+      <webElementGuid>fef7e91e-d8af-4b96-b7b9-c68180ddf8b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>min</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7e62a516-8040-4dc7-b6bf-7fe8a2297171</webElementGuid>
+      <webElementGuid>4662e232-7e61-46bb-b487-34af6088af70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>name</name>
       <type>Main</type>
       <value>cart[149e9677a5989fd342ae44213df68868][qty]</value>
-      <webElementGuid>f02bd487-2cf8-4aa9-b3dd-2b2d61e5b4db</webElementGuid>
+      <webElementGuid>a3c0587c-6788-4550-99a4-a6120dc2e16e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>1885bac8-2689-4559-a6bd-e15a953c56ba</webElementGuid>
+      <webElementGuid>f32b3727-0afe-434f-b52e-9ee422725aae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Qty</value>
-      <webElementGuid>51ef3cd2-61ba-47eb-8040-63c776b7e265</webElementGuid>
+      <webElementGuid>9fb7ce92-9c1a-40f9-83e1-718d982809a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text qty text</value>
-      <webElementGuid>12178b73-4723-4c4e-bbed-fd5ed69cd735</webElementGuid>
+      <webElementGuid>7d211fce-1ca2-4c9b-895f-f01238993ac3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>size</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>a66d4e7a-2eff-42a3-a3a0-7785037badcd</webElementGuid>
+      <webElementGuid>855396cc-0a52-414a-a722-47a25b19f9fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>pattern</name>
       <type>Main</type>
       <value>[0-9]*</value>
-      <webElementGuid>c73937fd-47c9-45e2-8d7c-2ca426ddb36d</webElementGuid>
+      <webElementGuid>ed49ee77-5c94-4c51-8d67-16b9dded21ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>inputmode</name>
       <type>Main</type>
       <value>numeric</value>
-      <webElementGuid>1634d1b7-99f6-49f8-b266-3ebbf50deb3c</webElementGuid>
+      <webElementGuid>fc3c6ffc-659b-49f2-be3d-a3f797c03dbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page-34&quot;)/div[@class=&quot;page-content entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[1]/table[@class=&quot;shop_table shop_table_responsive cart&quot;]/tbody[1]/tr[@class=&quot;cart_item&quot;]/td[@class=&quot;product-quantity&quot;]/div[@class=&quot;quantity&quot;]/input[@class=&quot;input-text qty text&quot;]</value>
-      <webElementGuid>074bdd5a-ca67-4af1-8c4e-e88edcb5331f</webElementGuid>
+      <webElementGuid>e8248db0-ec66-4d2d-8070-450ffbfe1303</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='cart[149e9677a5989fd342ae44213df68868][qty]']</value>
-      <webElementGuid>f77a8a48-85de-4d8e-a7bf-95b2f6c3bc82</webElementGuid>
+      <webElementGuid>68749e0f-518e-4d07-8c28-1cb7ceffdc5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page-34']/div/div/form/table/tbody/tr/td[5]/div/input</value>
-      <webElementGuid>7809b2f1-ba5b-4a9f-9246-e2eec358c1db</webElementGuid>
+      <webElementGuid>f8b2c8ed-3c09-4fa2-9d52-5fe33d0f5850</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>8a8a107b-f4fc-49d3-8d82-135726f4ea5b</webElementGuid>
+      <webElementGuid>7cdc7e48-9452-4318-ac8d-439f80b1fbc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +143,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @name = 'cart[149e9677a5989fd342ae44213df68868][qty]' and @title = 'Qty']</value>
-      <webElementGuid>a02e02af-fe0d-408d-b16f-7024df3c4570</webElementGuid>
+      <webElementGuid>cae9b88d-5bfa-4568-9a76-426497689577</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

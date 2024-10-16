@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>75644f05-1551-40a3-a1b8-9f0f8748443b</webElementGuid>
+      <webElementGuid>2e19a8b4-35be-4724-9e63-50643fdcf1e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>e8c06ca3-4a2d-4a58-adb2-b0a1c0cac633</webElementGuid>
+      <webElementGuid>4a27bdab-927e-4595-b88f-5f13d198521f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>524278e7-08b2-4fdf-9bdc-9f2982601d98</webElementGuid>
+      <webElementGuid>5d664048-081e-490a-b4dc-1e358084af53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>update_cart</value>
-      <webElementGuid>ec971cb9-ea67-4ed2-9d0d-e011cd55c478</webElementGuid>
+      <webElementGuid>4b09c3f6-6f7c-4381-b61f-e3e78ca88811</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Update Basket</value>
-      <webElementGuid>2db65ad6-8a85-4e5f-94a9-536989b748b0</webElementGuid>
+      <webElementGuid>6ad9fbe5-6d05-46b7-a10b-a7a0c8291941</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page-34&quot;)/div[@class=&quot;page-content entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[1]/table[@class=&quot;shop_table shop_table_responsive cart&quot;]/tbody[1]/tr[2]/td[@class=&quot;actions&quot;]/input[@class=&quot;button&quot;]</value>
-      <webElementGuid>cf437f83-2a3b-44d4-8c08-196aee48f511</webElementGuid>
+      <webElementGuid>54424368-d79a-4461-bf4a-56cad96436fe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='update_cart']</value>
-      <webElementGuid>4ba65b3b-4966-46c7-a006-0ea18bc9d43a</webElementGuid>
+      <webElementGuid>ed89100a-2fb8-428c-9b62-905370094710</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page-34']/div/div/form/table/tbody/tr[2]/td/input</value>
-      <webElementGuid>8277d351-cc64-4f61-b68d-7c603bd866c5</webElementGuid>
+      <webElementGuid>94e58824-06ad-4bdc-beeb-d351ccef1d06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/input</value>
-      <webElementGuid>d7072716-a4a0-4119-a1be-940bdb7ae2ed</webElementGuid>
+      <webElementGuid>611503d9-ef2c-4f9c-bbe2-70b851efe3e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'update_cart']</value>
-      <webElementGuid>437949a7-0bde-4dd3-94eb-d9afe9653a1b</webElementGuid>
+      <webElementGuid>c70bf1fc-a51d-4525-8a94-5ca470817921</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

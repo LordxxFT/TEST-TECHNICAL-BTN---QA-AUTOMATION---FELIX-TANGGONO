@@ -23,16 +23,15 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://practice.automationtesting.in/shop/')
 
-WebUI.click(findTestObject('Object Repository/Page_Products  Automation Practice Site/a_Add to basket'))
+WebUI.click(findTestObject('Object Repository/Page_Products  Automation Practice Site/a_Add to basket(Android Quick Start Guide)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Products  Automation Practice Site/a_View Basket'))
+WebUI.click(findTestObject('Page_Products  Automation Practice Site/a_Add to basket (Functional Programming in JS)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Basket  Automation Practice Site/input__cart149e9677a5989fd342ae44213df68868qty'), 
-    Quantity)
+WebUI.click(findTestObject('Page_Products  Automation Practice Site/a_Add to basket (HTML5 Form)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Basket  Automation Practice Site/input_Coupon_update_cart'))
+WebUI.click(findTestObject('Page_Products  Automation Practice Site/i_Demo Site_wpmenucart-icon-shopping-cart-0'))
 
-WebUI.click(findTestObject('Object Repository/Page_Basket  Automation Practice Site/a_Proceed to Checkout'))
+WebUI.click(findTestObject('Page_Basket  Automation Practice Site/a_Proceed to Checkout2'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Checkout  Automation Practice Site/input__billing_first_name'), First_name)
 

@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0a10af26-d77e-4b15-8a63-6e229ae48854</webElementGuid>
+      <webElementGuid>3e5495f6-7957-4480-acec-0ceb7036274f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>3fc19529-2272-4c30-88ca-2ec6aa517c51</webElementGuid>
+      <webElementGuid>c2b421f0-b0e3-4b96-aeaf-1b546f10c4c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button alt</value>
-      <webElementGuid>414d3681-fd34-4d9d-9763-d457cde8189a</webElementGuid>
+      <webElementGuid>4c91f802-e448-425f-a9b3-564633875e75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>woocommerce_checkout_place_order</value>
-      <webElementGuid>ddfc2cba-f7ca-4ae5-8524-709b26c2e413</webElementGuid>
+      <webElementGuid>e409e126-791f-4222-94e3-d6c0c9989ef6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>place_order</value>
-      <webElementGuid>fef15e15-8491-407e-9737-0f77077e14a2</webElementGuid>
+      <webElementGuid>26dfe788-8496-42ed-b31a-57ab9a0a911c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Place order</value>
-      <webElementGuid>0a210d53-26e9-4322-971c-76289abd84ed</webElementGuid>
+      <webElementGuid>55ace5a8-a5e7-42ba-974d-c7edce519ad2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>Place order</value>
-      <webElementGuid>e47b896c-87a2-404b-9d29-9511e46c711d</webElementGuid>
+      <webElementGuid>d2282004-e584-4d91-930b-b4192c226f5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;place_order&quot;)</value>
-      <webElementGuid>01f504d4-5fcb-4ec5-8ed8-dd3abe8e9505</webElementGuid>
+      <webElementGuid>f4a23e68-8fa1-4f0a-98a5-dd327c568ac5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='place_order']</value>
-      <webElementGuid>aa5e641c-d0e5-4cdf-b734-0f8240af2c42</webElementGuid>
+      <webElementGuid>0286ec5a-6236-4133-94a6-62c30d2a6752</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='payment']/div/input</value>
-      <webElementGuid>45b4b96e-bb79-48c9-8942-504e03022b04</webElementGuid>
+      <webElementGuid>045d8525-53d1-4077-8e0e-6481c48fecff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/input</value>
-      <webElementGuid>5232cd87-edfd-4a27-98fd-adc1ee65839b</webElementGuid>
+      <webElementGuid>dd41fd3c-0b19-486f-b1be-066196e5870f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'woocommerce_checkout_place_order' and @id = 'place_order']</value>
-      <webElementGuid>a691d5d4-cc9d-4c6f-9eab-ebc8d4fd4376</webElementGuid>
+      <webElementGuid>b1ed33b4-6549-4e8b-be92-fa427fff92f4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

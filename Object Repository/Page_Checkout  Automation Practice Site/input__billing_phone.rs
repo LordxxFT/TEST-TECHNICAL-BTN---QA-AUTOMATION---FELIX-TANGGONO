@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>591060fc-45b5-4b9c-9d61-ac8a49e12abb</webElementGuid>
+      <webElementGuid>b15f9071-26e0-4268-ace6-55747991510e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>tel</value>
-      <webElementGuid>d8033cd4-489a-4662-a211-9ca74631c250</webElementGuid>
+      <webElementGuid>f025b8a0-03fb-441b-bb52-7c507d20800c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text </value>
-      <webElementGuid>1e4a12c2-f393-43fc-b58b-1290e1ade4ba</webElementGuid>
+      <webElementGuid>d4ac2a77-45cb-4985-9d80-01e1b7789c6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>billing_phone</value>
-      <webElementGuid>6aef3e4f-d463-44b4-8bf5-4707ab188051</webElementGuid>
+      <webElementGuid>20fd6148-15cb-4edf-8854-b0521e341004</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>billing_phone</value>
-      <webElementGuid>d0f48767-b46d-403d-8caa-df600798121f</webElementGuid>
+      <webElementGuid>d01cecd4-eed7-4e8f-b2fc-c1488badecbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>tel</value>
-      <webElementGuid>9981f6e9-0c59-4469-88b9-f2182dafc7d1</webElementGuid>
+      <webElementGuid>5266dea7-79c7-4103-87a8-cbf6b057e337</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billing_phone&quot;)</value>
-      <webElementGuid>52f8002b-e0a1-408c-a1f2-1006cfe7a7f1</webElementGuid>
+      <webElementGuid>c5a1a4a0-dec3-495f-9cb5-5e78b92ae6dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='billing_phone']</value>
-      <webElementGuid>5098f07e-2bcb-41eb-86e3-4c18b6f1aa3a</webElementGuid>
+      <webElementGuid>8b0d69d7-89cd-42bb-b075-1d90975056b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p[@id='billing_phone_field']/input</value>
-      <webElementGuid>217d2661-b7c1-4576-9c53-c716d2397268</webElementGuid>
+      <webElementGuid>e3c70e0b-26d1-4dce-afc7-716ae8f12e6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[5]/input</value>
-      <webElementGuid>d31be922-bdd6-437a-ac2e-863ae09c9d4c</webElementGuid>
+      <webElementGuid>e3658ef4-c7d0-4dc0-bad2-b85138b4d961</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'tel' and @name = 'billing_phone' and @id = 'billing_phone']</value>
-      <webElementGuid>b03edf70-a035-4a78-86ad-16e0200cf03b</webElementGuid>
+      <webElementGuid>f770490e-c915-4eb7-ad2d-379d93a7b89f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

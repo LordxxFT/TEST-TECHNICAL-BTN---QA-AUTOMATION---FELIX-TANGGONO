@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TEST TECHNICAL BTN,Chrome 129.0.0.0,,,16-10-2024 16:09:06,16-10-2024 16:09:48,41.896s,FAILED
+,,,,,,,
+Test Cases/Case positif Quantity Update,Chrome 129.0.0.0,,,16-10-2024 16:09:07,16-10-2024 16:09:31,23.845s,FAILED
+"openBrowser("""")",Chrome 129.0.0.0,,,16-10-2024 16:09:07,16-10-2024 16:09:10,2.749s,PASSED
+maximizeWindow(),Chrome 129.0.0.0,,,16-10-2024 16:09:10,16-10-2024 16:09:10,0.071s,PASSED
+"navigateToUrl(""https://practice.automationtesting.in/shop/"")",Chrome 129.0.0.0,,,16-10-2024 16:09:10,16-10-2024 16:09:12,2.163s,PASSED
+"click(findTestObject(""Object Repository/Page_Products  Automation Practice Site/a_Add to basket""))",Chrome 129.0.0.0,,,16-10-2024 16:09:12,16-10-2024 16:09:13,0.736s,PASSED
+"click(findTestObject(""Object Repository/Page_Products  Automation Practice Site/a_View Basket""))",Chrome 129.0.0.0,,,16-10-2024 16:09:13,16-10-2024 16:09:31,17.412s,FAILED
+,,,,,,,
+Test Cases/Case positif Add more basket,Chrome 129.0.0.0,,,16-10-2024 16:09:31,16-10-2024 16:09:48,17.561s,FAILED
+"openBrowser("""")",Chrome 129.0.0.0,,,16-10-2024 16:09:31,16-10-2024 16:09:32,1.059s,PASSED
+maximizeWindow(),Chrome 129.0.0.0,,,16-10-2024 16:09:32,16-10-2024 16:09:32,0.100s,PASSED
+"navigateToUrl(""https://practice.automationtesting.in/shop/"")",Chrome 129.0.0.0,,,16-10-2024 16:09:32,16-10-2024 16:09:35,2.818s,PASSED
+"click(findTestObject(""Object Repository/Page_Products  Automation Practice Site/a_Add to basket""))",Chrome 129.0.0.0,,,16-10-2024 16:09:35,16-10-2024 16:09:36,0.693s,PASSED
+"click(findTestObject(""Object Repository/Page_Products  Automation Practice Site/a_Add to basket_1""))",Chrome 129.0.0.0,,,16-10-2024 16:09:36,16-10-2024 16:09:37,0.731s,PASSED
+"click(findTestObject(""Object Repository/Page_Products  Automation Practice Site/a_Add to basket_1_2""))",Chrome 129.0.0.0,,,16-10-2024 16:09:37,16-10-2024 16:09:37,0.719s,PASSED
+"click(findTestObject(""Object Repository/Page_Products  Automation Practice Site/a_View Basket""))",Chrome 129.0.0.0,,,16-10-2024 16:09:37,16-10-2024 16:09:39,1.771s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Automation Practice Site/input__billing_first_name""), First_name)",Chrome 129.0.0.0,,,16-10-2024 16:09:39,16-10-2024 16:09:48,9.099s,FAILED

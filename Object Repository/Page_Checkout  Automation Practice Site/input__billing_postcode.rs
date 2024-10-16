@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>64a6aebf-f49d-4053-b58f-0117af2e5964</webElementGuid>
+      <webElementGuid>f8932e80-966b-4908-bd2a-fbff8ac41943</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>13c57cc4-2299-429e-bf59-815aecba9840</webElementGuid>
+      <webElementGuid>3ad4223c-a3f9-4e67-9adf-db221b3c69a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text </value>
-      <webElementGuid>37b24d51-986e-4973-b200-f610ba530433</webElementGuid>
+      <webElementGuid>1d858afe-5f30-44d9-809e-b4c937d86414</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>billing_postcode</value>
-      <webElementGuid>b104edfa-805d-4002-9f6d-d5f0e1145bf3</webElementGuid>
+      <webElementGuid>60e57091-772f-441b-8df6-987f4854386d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>billing_postcode</value>
-      <webElementGuid>6f67bb8b-2ebd-4957-8ad8-45cce44cef4b</webElementGuid>
+      <webElementGuid>87a29b9f-281a-4f06-b9de-dc2c04da4da4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>postal-code</value>
-      <webElementGuid>7b1b80b7-59a1-4ec9-920c-55535ee99d56</webElementGuid>
+      <webElementGuid>2b7c461a-3289-49f0-802f-ef2e12ad28c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billing_postcode&quot;)</value>
-      <webElementGuid>f2b89336-f826-42de-9bd1-c1683a8ce7df</webElementGuid>
+      <webElementGuid>5fa23a68-6dfd-4dae-8487-737b18098648</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='billing_postcode']</value>
-      <webElementGuid>2ea74dab-e027-4548-83ec-ab568c640cab</webElementGuid>
+      <webElementGuid>09f22640-5b59-4479-ac70-14ddf2216a8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p[@id='billing_postcode_field']/input</value>
-      <webElementGuid>68fcc12a-330c-4fe4-b727-6f9fc8e1c575</webElementGuid>
+      <webElementGuid>7205c6e3-d4d2-488a-a4b0-04d61ad5d7f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[11]/input</value>
-      <webElementGuid>e08f0b5d-ca1f-4214-b1cb-669388665565</webElementGuid>
+      <webElementGuid>bd4d3f76-7a91-4a3d-8612-8fa6f16f1232</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'billing_postcode' and @id = 'billing_postcode']</value>
-      <webElementGuid>d903aeef-b305-45c7-9901-b2b0c46856fd</webElementGuid>
+      <webElementGuid>1f550e5f-7281-49f6-bc23-22f55f511d39</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

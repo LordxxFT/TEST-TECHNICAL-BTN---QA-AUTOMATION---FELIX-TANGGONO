@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a9b6bfb2-e18b-4fe8-8bc7-703eb37e9fe9</webElementGuid>
+      <webElementGuid>b75574e8-febe-4c82-8ef0-9331b74754d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e78bf8fa-0a52-42ac-ac83-5b2fd8c8dd95</webElementGuid>
+      <webElementGuid>132a21a3-42d5-4add-b493-31c3b722d9fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text </value>
-      <webElementGuid>c4cbce0d-522b-4cfc-83e7-7cff6a1b967e</webElementGuid>
+      <webElementGuid>7359b5c7-ca9f-4a07-9058-545b04bcd687</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>billing_address_2</value>
-      <webElementGuid>bd60a64b-9110-456e-a4b5-608d519944eb</webElementGuid>
+      <webElementGuid>03cdce78-559e-4836-a01d-3148d8d16070</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>billing_address_2</value>
-      <webElementGuid>62d96895-5dee-439b-955f-efe75eb151f6</webElementGuid>
+      <webElementGuid>8435c2f4-7bfa-4831-84e4-589a190b8880</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Apartment, suite, unit etc. (optional)</value>
-      <webElementGuid>3c58c344-bdc2-489e-aa0e-b1a96b3972be</webElementGuid>
+      <webElementGuid>0d36d3ec-94b8-4438-9187-0701ebe261bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>address-line2</value>
-      <webElementGuid>a8f1afac-a933-42f3-afed-8fa48525e359</webElementGuid>
+      <webElementGuid>9694c345-5286-4d17-94da-f2cde239ac37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billing_address_2&quot;)</value>
-      <webElementGuid>de2fd050-ba3f-4920-b77a-d873e9f69c49</webElementGuid>
+      <webElementGuid>21475838-eda8-484a-a0c7-f6e3dd41af71</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='billing_address_2']</value>
-      <webElementGuid>cb91850f-c715-4ea8-8cf3-8ff108196ef3</webElementGuid>
+      <webElementGuid>223ea646-caec-410d-bdfd-a2b5b15c8385</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p[@id='billing_address_2_field']/input</value>
-      <webElementGuid>34d5fa8b-9d3d-4783-aa90-7da9ed12e163</webElementGuid>
+      <webElementGuid>b0445a00-d10e-4927-bd0f-c93c5a9e978d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[8]/input</value>
-      <webElementGuid>44b303e5-f0a3-481b-ba5d-91696e26fafc</webElementGuid>
+      <webElementGuid>9b0c2696-7a35-4594-8ec3-cf776d6db067</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'billing_address_2' and @id = 'billing_address_2' and @placeholder = 'Apartment, suite, unit etc. (optional)']</value>
-      <webElementGuid>d3d77dcb-117b-4351-a920-09006902745d</webElementGuid>
+      <webElementGuid>7056fae9-e98e-4a4c-b7af-f7f75d1c44d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

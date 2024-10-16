@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c7b387a6-9f06-4c9c-896b-94417cb37f1e</webElementGuid>
+      <webElementGuid>6988e9be-a7b8-416b-8bf1-bd1fde786bfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>89a71af2-f836-40ad-80de-f93ee0f5894c</webElementGuid>
+      <webElementGuid>1765bf48-1da6-4d28-9952-8fa7720496a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text </value>
-      <webElementGuid>bee62454-51dd-4ace-9b7e-0efe4f9df252</webElementGuid>
+      <webElementGuid>cf7c0fcc-d2df-44b8-8f6f-bf4a3e1d5674</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>billing_last_name</value>
-      <webElementGuid>bac881aa-0237-4b33-92d1-c2fc648890b3</webElementGuid>
+      <webElementGuid>bdec2c47-dbdd-49b5-a15a-6a0c1f5b15b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>billing_last_name</value>
-      <webElementGuid>e73fb52d-fad9-4e74-aab8-f7b4c066ae8f</webElementGuid>
+      <webElementGuid>8e33604a-834a-4267-af96-1497af8b6166</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>family-name</value>
-      <webElementGuid>6cd4b3b0-fb71-487a-b30d-edce0a998c6e</webElementGuid>
+      <webElementGuid>3caab662-6d6b-46ea-bcba-b7cb08f22eaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billing_last_name&quot;)</value>
-      <webElementGuid>930386c5-5d54-4a92-a063-2a8b109f2c90</webElementGuid>
+      <webElementGuid>f235061e-4e43-4840-b50e-a8fa27e30a48</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='billing_last_name']</value>
-      <webElementGuid>6a920c8a-5ebb-409b-9ddd-a614b5364577</webElementGuid>
+      <webElementGuid>ff8261c4-902d-4766-bb57-e977cf1a4995</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p[@id='billing_last_name_field']/input</value>
-      <webElementGuid>c8ab2830-1cc6-4694-bd37-5e715fc21540</webElementGuid>
+      <webElementGuid>601efe78-46e1-4cfd-a4d7-63077f7b0c2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/p[2]/input</value>
-      <webElementGuid>853cb5d0-b5b4-496f-aebd-2431b9f76e57</webElementGuid>
+      <webElementGuid>1378c6dd-ef8d-4f9d-80ff-99d1d0495055</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'billing_last_name' and @id = 'billing_last_name']</value>
-      <webElementGuid>3ed4e524-f909-4cc1-b47b-57d3be1d7277</webElementGuid>
+      <webElementGuid>537fed7b-7ab9-4147-b3b6-d65cee29c89f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

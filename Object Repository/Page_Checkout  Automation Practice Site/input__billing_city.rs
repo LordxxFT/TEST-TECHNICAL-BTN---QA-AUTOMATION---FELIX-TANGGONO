@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8b01c6b8-0588-4892-aeb0-1333db192e61</webElementGuid>
+      <webElementGuid>06a09b45-375e-499c-a258-f1f4f3fdcd45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>62d9d43d-87f4-496b-9f1c-ff008832007e</webElementGuid>
+      <webElementGuid>dd3aa3fd-7d54-4870-96d0-ee0fefb30f93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text </value>
-      <webElementGuid>4c3e3992-a952-4181-ab11-902cbb29ad71</webElementGuid>
+      <webElementGuid>f445c7f0-0ec1-4176-b9b8-e3dd18498a06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>billing_city</value>
-      <webElementGuid>24245667-157e-421c-864d-3c54ae171461</webElementGuid>
+      <webElementGuid>40f53d90-a623-4a8a-a858-53e40b7d5e94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>billing_city</value>
-      <webElementGuid>c198506e-b27f-4c6d-bd58-7bb1d3b347a7</webElementGuid>
+      <webElementGuid>56fcc84c-f5d5-4798-aaf3-6c1c44fbfa0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>address-level2</value>
-      <webElementGuid>33833164-6798-4931-a875-a7b01fa79e5b</webElementGuid>
+      <webElementGuid>81c9216a-f779-45e2-be0c-f170aa9fb6ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billing_city&quot;)</value>
-      <webElementGuid>09a40975-c4af-4afb-8481-e7f2d13b351d</webElementGuid>
+      <webElementGuid>742d669b-a83a-4aeb-9ce3-b11aaf6d876a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='billing_city']</value>
-      <webElementGuid>301e90f0-bc52-43ab-b70e-39d7a4d85180</webElementGuid>
+      <webElementGuid>385ca665-f675-4ab0-a872-c2935e5e6bb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p[@id='billing_city_field']/input</value>
-      <webElementGuid>554b321f-cf2e-48e4-9676-33f6acf2e879</webElementGuid>
+      <webElementGuid>6e3e0cc5-f48f-4959-8a63-392900abdb02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[9]/input</value>
-      <webElementGuid>751de335-b569-4714-9fbe-b1d4d52a93f9</webElementGuid>
+      <webElementGuid>49e02131-ab28-46fc-826b-cfaba77107e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'billing_city' and @id = 'billing_city']</value>
-      <webElementGuid>3dfcb122-d4b4-409b-96a4-fbea98803f8c</webElementGuid>
+      <webElementGuid>60832379-4336-491d-84f8-86afc15ae037</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

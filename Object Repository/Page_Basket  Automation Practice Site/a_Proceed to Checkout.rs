@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d139ee9f-3d1a-4445-a619-67d2791d0461</webElementGuid>
+      <webElementGuid>32b04924-3d91-4256-9ec7-9688fffb9b53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://practice.automationtesting.in/checkout/</value>
-      <webElementGuid>90b958f8-4353-4c31-8962-9e4f9065a66b</webElementGuid>
+      <webElementGuid>8d4d8604-267d-4f31-8a51-73c1bf75dc26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>checkout-button button alt wc-forward</value>
-      <webElementGuid>1af1352d-0cde-4915-8645-b6f6333e16f2</webElementGuid>
+      <webElementGuid>38eb4405-7c0f-4c1c-bc61-67c40e1e2b9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <type>Main</type>
       <value>
 	Proceed to Checkout</value>
-      <webElementGuid>c8144704-c302-4649-ab36-ad8f08dd3dc1</webElementGuid>
+      <webElementGuid>fd9a5f3b-4648-455e-be6c-de6594a5acda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page-34&quot;)/div[@class=&quot;page-content entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;cart-collaterals&quot;]/div[@class=&quot;cart_totals&quot;]/div[@class=&quot;wc-proceed-to-checkout&quot;]/a[@class=&quot;checkout-button button alt wc-forward&quot;]</value>
-      <webElementGuid>6de7a65d-cd37-4e3a-b822-c6f6d5e3ac73</webElementGuid>
+      <webElementGuid>6194d99e-3c86-4aeb-a75c-d4d79baf8cf4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page-34']/div/div/div[2]/div/div/a</value>
-      <webElementGuid>27eedc20-340d-4fdd-9827-6ec7dc12c630</webElementGuid>
+      <webElementGuid>2b2282b4-6bde-487c-b8b4-f172e204f51c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,15 +72,15 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Proceed to Checkout')]</value>
-      <webElementGuid>f6927d29-cded-44f3-9d11-f726965e6c09</webElementGuid>
+      <webElementGuid>79ff4f46-3ffa-4b4b-9f1d-ab2a545c84e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[5]/following::a[1]</value>
-      <webElementGuid>1d0a2686-246d-4199-bb9c-eb72b4e408bf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[6]/following::a[1]</value>
+      <webElementGuid>86034e3a-d2f1-4bf5-bf9c-d2c73b20d5cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/following::a[1]</value>
-      <webElementGuid>fa09bdad-f99c-4c10-a25b-5f00ebbff6cd</webElementGuid>
+      <webElementGuid>e6e41f09-c0e8-4c34-9e62-11a77a4bef7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe Here'])[1]/preceding::a[7]</value>
-      <webElementGuid>4b7c275d-c038-4d08-88cd-b1f6e6f6c80c</webElementGuid>
+      <webElementGuid>3726d848-6c66-4b44-9255-9db919d6fe87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Proceed to Checkout']/parent::*</value>
-      <webElementGuid>98e26eaf-2c5a-4a7a-b0ea-27ad53b77485</webElementGuid>
+      <webElementGuid>0ffb3fc1-4636-497f-be43-20200a7a8d07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://practice.automationtesting.in/checkout/')]</value>
-      <webElementGuid>6fd45a1c-da48-4ca3-81c9-c285957f9326</webElementGuid>
+      <webElementGuid>3e933792-9c23-454e-8c0f-83d5a8a89237</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/a</value>
-      <webElementGuid>c7be3a97-2f81-42c0-9aa2-753e4aa7f794</webElementGuid>
+      <webElementGuid>6b5794f8-e097-42a7-bc22-888e378aed22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +130,38 @@
       <value>//a[@href = 'https://practice.automationtesting.in/checkout/' and (text() = '
 	Proceed to Checkout' or . = '
 	Proceed to Checkout')]</value>
-      <webElementGuid>77594ca1-7910-4f51-acae-473e537ce6bd</webElementGuid>
+      <webElementGuid>47e1c470-6505-415a-9956-1a854cc200f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-34']/div/div/div/div/div/a</value>
+      <webElementGuid>972b7dec-3446-4bed-aa06-7f397750befa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[9]/following::a[1]</value>
+      <webElementGuid>286010a4-517d-42b9-a240-bfb021d41fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a</value>
+      <webElementGuid>61083b61-bf4e-45ea-92ed-33aee7b1918f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[5]/following::a[1]</value>
+      <webElementGuid>1d0a2686-246d-4199-bb9c-eb72b4e408bf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

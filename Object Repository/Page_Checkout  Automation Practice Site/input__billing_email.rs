@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a697f72b-0f18-45fa-940f-157cfe978023</webElementGuid>
+      <webElementGuid>03e04266-0c96-43ee-af72-d0132c830a7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>bbdf4fab-241b-48fd-90ce-253d2203c7cd</webElementGuid>
+      <webElementGuid>ab7fc77f-c92d-415a-b559-e59d0418002e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text </value>
-      <webElementGuid>fc60eb1b-b24c-4339-8a83-79b68524885a</webElementGuid>
+      <webElementGuid>ff1cff49-cf87-4880-9186-ca03e36e972d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>billing_email</value>
-      <webElementGuid>3d20fff8-e675-485d-bc3a-22d873c9eebc</webElementGuid>
+      <webElementGuid>d680d17d-6edf-4099-851f-003eaf4866b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>billing_email</value>
-      <webElementGuid>2c05828d-0986-42d0-8109-e6029ba2180e</webElementGuid>
+      <webElementGuid>49bf7426-ad5a-44fb-b2f5-fe38c8e941f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>85b24b69-746f-468c-bf8c-9fc1091d5558</webElementGuid>
+      <webElementGuid>15bf4277-eb3a-4663-9cbe-e6b1134c101c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billing_email&quot;)</value>
-      <webElementGuid>d7902679-a447-4004-b10d-843303de2280</webElementGuid>
+      <webElementGuid>d1b2dbe0-8663-430a-8ce1-56a0305642df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='billing_email']</value>
-      <webElementGuid>d614044b-8047-4e71-b57b-ab7d6e7f7879</webElementGuid>
+      <webElementGuid>4f476655-452b-4781-97ec-1fd806d82bf6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p[@id='billing_email_field']/input</value>
-      <webElementGuid>9d2949e9-b62f-4ff7-9cf6-e13b326fb0a7</webElementGuid>
+      <webElementGuid>01113309-6c13-4cf4-86c0-7acc933dad25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/p[4]/input</value>
-      <webElementGuid>c4ba49be-6b83-4969-b213-f76894dfaf45</webElementGuid>
+      <webElementGuid>e1dc9b7a-dd62-488c-84ce-449a834ab791</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'email' and @name = 'billing_email' and @id = 'billing_email']</value>
-      <webElementGuid>06573a5e-5519-49d4-a03b-07d2b5a784a0</webElementGuid>
+      <webElementGuid>ccb815a0-23da-4e48-8c18-2dca281413a4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
