@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_006 Case Negative fail add coupon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e0aa87b0-21a9-4dd1-999d-3eda717e5f6d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4188de20-c3a9-4644-8bbf-1bd687eff2af</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4188de20-c3a9-4644-8bbf-1bd687eff2af</id>
+      <masked>false</masked>
+      <name>Coupon</name>
+   </variable>
+</TestCaseEntity>
